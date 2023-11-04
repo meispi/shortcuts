@@ -1,5 +1,6 @@
 These are some small scripts to create hotkeys for small tasks (such as encoding decoding).
-To use these scripts
+
+## To use these scripts
 
 ```
 git clone https://github.com/meispi/shortcuts
